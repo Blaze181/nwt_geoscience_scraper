@@ -93,12 +93,6 @@ python NWT-Geoscience-Download.py
 
 ---
 
-## License
-
-This project is for academic and research use. Please respect the terms of use of the NWT Geoscience Assessment Report Index.
-
----
-
 ## Author
 
 *Developed by a postgraduate student in Applied Geology, IIT Bombay.*
